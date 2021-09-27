@@ -1,0 +1,19 @@
+{
+  "name": "kodegen-interface",
+  "version": "1.0.0",
+  "description": "typescript interface for creating kodegen compatible generators",
+  "main": "generatorInterface.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectorperdomo/kodegen-interface.git"
+  },
+  "author": "Hector Perdomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hectorperdomo/kodegen-interface/issues"
+  },
+  "homepage": "https://github.com/hectorperdomo/kodegen-interface#readme"
+}
