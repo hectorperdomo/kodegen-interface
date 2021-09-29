@@ -1,6 +1,6 @@
 {
   "name": "kodegen-interface",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "typescript interface for creating kodegen compatible generators",
   "main": "generatorInterface.js",
   "scripts": {
